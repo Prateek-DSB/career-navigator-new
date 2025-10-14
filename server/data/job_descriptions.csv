@@ -1,0 +1,26 @@
+role,company,skills_required,experience_level,description
+Frontend Developer,Tech Corp,React JavaScript HTML CSS Git Responsive Design,Mid-level,Build modern web applications using React and related technologies
+Backend Developer,StartupXYZ,Node.js Express MongoDB REST APIs Authentication,Mid-level,Design and develop scalable backend services and APIs
+Full Stack Developer,InnovateTech,React Node.js PostgreSQL Docker AWS Git,Senior,Build complete web applications from frontend to backend
+Product Manager,ProductCo,User Research Data Analysis Roadmapping Stakeholder Management Agile,Mid-level,Define product strategy and work with engineering teams
+Data Scientist,DataVentures,Python Machine Learning SQL Statistics Pandas TensorFlow,Mid-level,Analyze data and build ML models to drive business decisions
+DevOps Engineer,CloudFirst,AWS Docker Kubernetes CI/CD Terraform Linux,Senior,Automate infrastructure and improve deployment processes
+UX Designer,DesignHub,Figma User Research Wireframing Prototyping Design Systems,Mid-level,Create user-centered designs for web and mobile applications
+Mobile Developer,AppFactory,React Native iOS Android JavaScript Firebase,Mid-level,Build cross-platform mobile applications
+Machine Learning Engineer,AILabs,Python TensorFlow PyTorch ML Ops Model Deployment,Senior,Build and deploy machine learning models at scale
+QA Engineer,QualityFirst,Test Automation Selenium Python API Testing CI/CD,Mid-level,Design and execute test strategies for software quality
+Business Analyst,AnalyticsHub,SQL Excel Data Visualization Requirements Gathering Stakeholder Management,Mid-level,Bridge business needs with technical solutions
+Cloud Architect,CloudScale,AWS Azure Microservices System Design Security,Senior,Design scalable cloud infrastructure solutions
+Cybersecurity Analyst,SecureNet,Network Security Penetration Testing Incident Response SIEM,Mid-level,Protect systems from security threats and vulnerabilities
+Technical Writer,DocuTech,API Documentation Markdown Git Technical Communication,Mid-level,Create clear documentation for technical products
+Blockchain Developer,CryptoStart,Solidity Ethereum Web3.js Smart Contracts JavaScript,Mid-level,Build decentralized applications on blockchain platforms
+Site Reliability Engineer,ReliableSys,Kubernetes Monitoring Prometheus Grafana Python Go,Senior,Ensure system reliability and performance at scale
+Game Developer,GameStudio,Unity C# 3D Mathematics Physics Game Design,Mid-level,Create engaging gaming experiences for multiple platforms
+Solutions Architect,EnterpriseTech,System Design Cloud Architecture Microservices Integration Patterns,Senior,Design technical solutions for enterprise clients
+Data Engineer,BigDataCo,Python Spark SQL Airflow ETL Data Pipelines AWS,Mid-level,Build and maintain data infrastructure and pipelines
+Growth Hacker,GrowthLab,Analytics SEO A/B Testing Marketing Automation SQL,Mid-level,Drive user acquisition and retention through data-driven strategies
+UI Developer,PixelPerfect,HTML CSS JavaScript Animations SASS Webpack,Mid-level,Implement pixel-perfect user interfaces with animations
+Backend Architect,ScaleTech,Microservices System Design Database Design API Design,Senior,Design scalable backend architectures for large systems
+Content Strategist,ContentHub,SEO Content Marketing Analytics Writing Strategy,Mid-level,Develop content strategies that drive engagement and conversions
+Automation Engineer,AutomateTech,Python Selenium Robot Framework CI/CD Jenkins,Mid-level,Build test automation frameworks and infrastructure
+Digital Marketing Manager,MarketingPro,Google Analytics SEO SEM Social Media Marketing PPC,Mid-level,Plan and execute digital marketing campaigns across channels

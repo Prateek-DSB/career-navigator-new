@@ -1,0 +1,26 @@
+course_name,platform,url,skills_covered,duration,price,difficulty,rating,description
+The Complete React Developer Course,Udemy,https://udemy.com/react-complete,React JavaScript Hooks Redux,40 hours,₹3999,Intermediate,4.7,Master React from basics to advanced including hooks and Redux
+Node.js - The Complete Guide,Udemy,https://udemy.com/nodejs-complete,Node.js Express MongoDB REST APIs,42 hours,₹3499,Intermediate,4.6,Build scalable backend applications with Node.js and Express
+Full Stack Web Development,Coursera,https://coursera.org/fullstack,HTML CSS JavaScript React Node.js MongoDB,6 months,Free,Beginner,4.5,Complete full stack development specialization
+Machine Learning Specialization,Coursera,https://coursera.org/ml-specialization,Python Machine Learning Algorithms Statistics,4 months,Free,Intermediate,4.8,Learn ML fundamentals from Andrew Ng
+AWS Certified Solutions Architect,Udemy,https://udemy.com/aws-architect,AWS Cloud Architecture EC2 S3 Lambda,25 hours,₹4999,Intermediate,4.6,Prepare for AWS Solutions Architect certification
+Python for Data Science,Coursera,https://coursera.org/python-data,Python Pandas NumPy Data Analysis,3 months,Free,Beginner,4.7,Learn Python for data analysis and visualization
+The Complete JavaScript Course,Udemy,https://udemy.com/javascript-complete,JavaScript ES6 Async/Await DOM Manipulation,52 hours,₹3999,Beginner,4.8,Master modern JavaScript from scratch
+Product Management Fundamentals,Udemy,https://udemy.com/product-management,Product Strategy User Research Roadmapping,15 hours,₹2999,Beginner,4.5,Learn core product management skills
+Docker and Kubernetes Complete Guide,Udemy,https://udemy.com/docker-kubernetes,Docker Kubernetes Container Orchestration,22 hours,₹3999,Intermediate,4.7,Master containerization and orchestration
+UX Design Fundamentals,Coursera,https://coursera.org/ux-design,Figma Wireframing Prototyping User Research,5 months,Free,Beginner,4.6,Complete UX design specialization from Google
+React Native - The Practical Guide,Udemy,https://udemy.com/react-native,React Native iOS Android Mobile Development,32 hours,₹3499,Intermediate,4.6,Build cross-platform mobile apps with React Native
+SQL for Data Analysis,Udemy,https://udemy.com/sql-data-analysis,SQL Queries Joins Aggregations,12 hours,₹1999,Beginner,4.7,Master SQL for data analysis tasks
+Advanced CSS and Sass,Udemy,https://udemy.com/advanced-css,CSS SASS Flexbox Grid Animations,28 hours,₹3499,Intermediate,4.8,Build modern responsive designs
+Python Django - The Complete Course,Udemy,https://udemy.com/django-complete,Python Django REST Framework PostgreSQL,38 hours,₹3999,Intermediate,4.6,Build web applications with Django
+Git and GitHub Bootcamp,Udemy,https://udemy.com/git-github,Git Version Control GitHub Collaboration,12 hours,₹1499,Beginner,4.7,Master version control with Git
+System Design Interview Prep,Udemy,https://udemy.com/system-design,System Design Scalability Architecture Patterns,18 hours,₹4499,Advanced,4.8,Prepare for system design interviews
+Complete Figma Megacourse,Udemy,https://udemy.com/figma-complete,Figma UI Design Prototyping Design Systems,24 hours,₹2999,Beginner,4.6,Master Figma for UI/UX design
+DevOps Bootcamp,Udemy,https://udemy.com/devops-bootcamp,CI/CD Jenkins Docker Kubernetes AWS,30 hours,₹4999,Intermediate,4.7,Learn complete DevOps pipeline
+Data Structures and Algorithms,Coursera,https://coursera.org/dsa,Algorithms Data Structures Problem Solving,6 months,Free,Intermediate,4.8,Master DSA for coding interviews
+TypeScript Complete Course,Udemy,https://udemy.com/typescript-complete,TypeScript JavaScript Types Interfaces,15 hours,₹2499,Intermediate,4.7,Learn TypeScript from basics to advanced
+MongoDB - The Complete Guide,Udemy,https://udemy.com/mongodb-complete,MongoDB NoSQL Database Design Aggregation,18 hours,₹3499,Intermediate,4.6,Master MongoDB database development
+REST API Design and Development,Udemy,https://udemy.com/rest-api,REST APIs Node.js Express Authentication,20 hours,₹2999,Intermediate,4.7,Build production-ready REST APIs
+Complete Ethical Hacking Course,Udemy,https://udemy.com/ethical-hacking,Network Security Penetration Testing Kali Linux,45 hours,₹5999,Advanced,4.7,Learn ethical hacking and penetration testing
+GraphQL Complete Guide,Udemy,https://udemy.com/graphql-complete,GraphQL Apollo Node.js React,16 hours,₹2999,Intermediate,4.6,Master GraphQL for modern APIs
+Microservices Architecture,Udemy,https://udemy.com/microservices,Microservices Docker Kubernetes Service Mesh,28 hours,₹4999,Advanced,4.7,Build scalable microservices architectures

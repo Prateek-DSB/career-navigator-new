@@ -1,0 +1,106 @@
+{
+  "technical": {
+    "React": {
+      "category": "Frontend Framework",
+      "relatedSkills": ["JavaScript", "JSX", "Hooks", "Redux", "Context API"],
+      "learningTime": "8-12 weeks",
+      "difficulty": "Intermediate",
+      "description": "Popular JavaScript library for building user interfaces"
+    },
+    "Node.js": {
+      "category": "Backend Runtime",
+      "relatedSkills": ["JavaScript", "Express", "npm", "REST APIs", "Async/Await"],
+      "learningTime": "6-10 weeks",
+      "difficulty": "Intermediate",
+      "description": "JavaScript runtime for building server-side applications"
+    },
+    "Python": {
+      "category": "Programming Language",
+      "relatedSkills": ["Data Structures", "Django", "Flask", "Pandas", "NumPy"],
+      "learningTime": "8-12 weeks",
+      "difficulty": "Beginner",
+      "description": "Versatile programming language for web, data science, and automation"
+    },
+    "JavaScript": {
+      "category": "Programming Language",
+      "relatedSkills": ["ES6", "DOM", "Async/Await", "Promises", "Array Methods"],
+      "learningTime": "10-14 weeks",
+      "difficulty": "Beginner",
+      "description": "Core language of web development"
+    },
+    "SQL": {
+      "category": "Database",
+      "relatedSkills": ["Queries", "Joins", "Indexing", "Transactions", "Normalization"],
+      "learningTime": "6-8 weeks",
+      "difficulty": "Beginner",
+      "description": "Language for managing relational databases"
+    },
+    "Docker": {
+      "category": "DevOps",
+      "relatedSkills": ["Containers", "Images", "Docker Compose", "Kubernetes"],
+      "learningTime": "4-6 weeks",
+      "difficulty": "Intermediate",
+      "description": "Platform for containerizing applications"
+    },
+    "AWS": {
+      "category": "Cloud",
+      "relatedSkills": ["EC2", "S3", "Lambda", "RDS", "CloudFormation"],
+      "learningTime": "12-16 weeks",
+      "difficulty": "Intermediate",
+      "description": "Amazon's cloud computing platform"
+    },
+    "Machine Learning": {
+      "category": "AI/ML",
+      "relatedSkills": ["Python", "TensorFlow", "Scikit-learn", "Statistics", "Linear Algebra"],
+      "learningTime": "16-24 weeks",
+      "difficulty": "Advanced",
+      "description": "Building models that learn from data"
+    },
+    "Git": {
+      "category": "Version Control",
+      "relatedSkills": ["Branching", "Merging", "Pull Requests", "GitHub", "GitLab"],
+      "learningTime": "2-4 weeks",
+      "difficulty": "Beginner",
+      "description": "Version control system for code collaboration"
+    },
+    "MongoDB": {
+      "category": "Database",
+      "relatedSkills": ["NoSQL", "JSON", "Aggregation", "Indexes", "Mongoose"],
+      "learningTime": "4-6 weeks",
+      "difficulty": "Intermediate",
+      "description": "NoSQL document database"
+    }
+  },
+  "softSkills": {
+    "Communication": {
+      "importance": "Critical",
+      "howToImprove": ["Public speaking", "Technical writing", "Active listening", "Presentation skills"],
+      "description": "Ability to convey ideas clearly to technical and non-technical audiences"
+    },
+    "Problem Solving": {
+      "importance": "Critical",
+      "howToImprove": ["Practice coding challenges", "Puzzle solving", "System design", "Critical thinking"],
+      "description": "Analytical thinking to break down and solve complex problems"
+    },
+    "Teamwork": {
+      "importance": "High",
+      "howToImprove": ["Pair programming", "Code reviews", "Collaborative projects", "Agile ceremonies"],
+      "description": "Working effectively with others toward common goals"
+    },
+    "Time Management": {
+      "importance": "High",
+      "howToImprove": ["Task prioritization", "Using project management tools", "Setting deadlines", "Avoiding multitasking"],
+      "description": "Organizing and planning time effectively"
+    },
+    "Adaptability": {
+      "importance": "High",
+      "howToImprove": ["Learning new technologies", "Embracing change", "Flexibility", "Growth mindset"],
+      "description": "Adjusting to new situations and technologies quickly"
+    },
+    "Leadership": {
+      "importance": "Medium",
+      "howToImprove": ["Mentoring junior developers", "Leading projects", "Decision making", "Delegation"],
+      "description": "Guiding and inspiring team members"
+    }
+  }
+}

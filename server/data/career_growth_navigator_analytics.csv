@@ -1,0 +1,6 @@
+user_id,current_role,skill_level,learning_path,course_completion_rate,skill_assessment_score,career_progression_impact,time_invested_hours,recommendation_accuracy,engagement_level,certification_potential,mentorship_match_rate
+USER001,Software_Engineer,intermediate,machine_learning,0.85,0.78,high_potential,45,0.82,very_high,strong,0.75
+USER002,Data_Analyst,beginner,data_science,0.72,0.65,moderate_potential,30,0.75,high,moderate,0.62
+USER003,Product_Manager,advanced,ai_strategy,0.93,0.89,leadership_track,60,0.88,extremely_high,very_strong,0.85
+USER004,Marketing_Professional,entry_level,ai_marketing,0.68,0.61,emerging_potential,25,0.70,medium,developing,0.55
+USER005,Business_Consultant,intermediate,ai_business_applications,0.80,0.76,strategic_growth,50,0.79,high,strong,0.70

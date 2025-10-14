@@ -1,0 +1,41 @@
+role,city,experience_level,salary_min,salary_max,currency,last_updated
+Frontend Developer,Bangalore,Entry-level,6,10,₹,2024
+Frontend Developer,Bangalore,Mid-level,10,18,₹,2024
+Frontend Developer,Bangalore,Senior,18,30,₹,2024
+Backend Developer,Bangalore,Entry-level,7,12,₹,2024
+Backend Developer,Bangalore,Mid-level,12,20,₹,2024
+Backend Developer,Bangalore,Senior,20,35,₹,2024
+Full Stack Developer,Bangalore,Mid-level,12,22,₹,2024
+Full Stack Developer,Bangalore,Senior,22,40,₹,2024
+Product Manager,Bangalore,Mid-level,15,28,₹,2024
+Product Manager,Bangalore,Senior,28,50,₹,2024
+Data Scientist,Bangalore,Mid-level,12,25,₹,2024
+Data Scientist,Bangalore,Senior,25,45,₹,2024
+DevOps Engineer,Bangalore,Mid-level,12,22,₹,2024
+DevOps Engineer,Bangalore,Senior,22,38,₹,2024
+UX Designer,Bangalore,Entry-level,5,9,₹,2024
+UX Designer,Bangalore,Mid-level,9,18,₹,2024
+UX Designer,Bangalore,Senior,18,30,₹,2024
+Mobile Developer,Bangalore,Mid-level,10,20,₹,2024
+Mobile Developer,Bangalore,Senior,20,35,₹,2024
+Machine Learning Engineer,Bangalore,Mid-level,15,28,₹,2024
+Machine Learning Engineer,Bangalore,Senior,28,50,₹,2024
+Frontend Developer,Mumbai,Mid-level,9,16,₹,2024
+Backend Developer,Mumbai,Mid-level,11,19,₹,2024
+Full Stack Developer,Mumbai,Mid-level,11,20,₹,2024
+Product Manager,Mumbai,Mid-level,14,26,₹,2024
+Data Scientist,Mumbai,Mid-level,11,23,₹,2024
+Frontend Developer,Delhi,Mid-level,8,15,₹,2024
+Backend Developer,Delhi,Mid-level,10,18,₹,2024
+Full Stack Developer,Delhi,Mid-level,10,19,₹,2024
+Product Manager,Delhi,Mid-level,13,25,₹,2024
+Frontend Developer,Hyderabad,Mid-level,8,14,₹,2024
+Backend Developer,Hyderabad,Mid-level,9,17,₹,2024
+Full Stack Developer,Hyderabad,Mid-level,9,18,₹,2024
+Frontend Developer,Pune,Mid-level,7,13,₹,2024
+Backend Developer,Pune,Mid-level,8,16,₹,2024
+QA Engineer,Bangalore,Mid-level,8,15,₹,2024
+Business Analyst,Bangalore,Mid-level,9,17,₹,2024
+Cloud Architect,Bangalore,Senior,25,45,₹,2024
+Cybersecurity Analyst,Bangalore,Mid-level,12,22,₹,2024
+Technical Writer,Bangalore,Mid-level,6,12,₹,2024
