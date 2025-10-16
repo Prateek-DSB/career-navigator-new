@@ -15,7 +15,7 @@ const PORT = process.env.PORT || 3001;
 // Middleware
 const allowedOrigins = [
   'http://localhost:5173',
-  'http://localhost:3000',
+  'http://localhost:3001',
   'https://career-navigator-new.vercel.app',
   'https://career-navigator-new-prateeks-projects-93ce24ff.vercel.app' // Your Vercel deployment URL
 ];
